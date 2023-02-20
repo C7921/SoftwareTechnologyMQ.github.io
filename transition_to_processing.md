@@ -28,7 +28,7 @@ Learning Processing: Introduction- Macquarie University Students [have access vi
 [Processing is available for all desktop operating systems](https://processing.org/download/).  You can't run it on an iPad or a Chromebook however.
 
 <div class="task" markdown="1">
-[Download and install](https://processing.org/download/) the processing environment on your own computer. Install version 3.5.4.
+[Download and install](https://processing.org/download/) the processing environment on your own computer. Install the latest stable version.
 
 
 # Processing Coordinates
